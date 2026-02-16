@@ -1,0 +1,14 @@
+/workspaces/codespaces-blank/Ejercicio4_git/bin/Debug/net10.0/Ejercicio4_git
+/workspaces/codespaces-blank/Ejercicio4_git/bin/Debug/net10.0/Ejercicio4_git.deps.json
+/workspaces/codespaces-blank/Ejercicio4_git/bin/Debug/net10.0/Ejercicio4_git.runtimeconfig.json
+/workspaces/codespaces-blank/Ejercicio4_git/bin/Debug/net10.0/Ejercicio4_git.dll
+/workspaces/codespaces-blank/Ejercicio4_git/bin/Debug/net10.0/Ejercicio4_git.pdb
+/workspaces/codespaces-blank/Ejercicio4_git/obj/Debug/net10.0/Ejercicio4_git.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codespaces-blank/Ejercicio4_git/obj/Debug/net10.0/Ejercicio4_git.AssemblyInfoInputs.cache
+/workspaces/codespaces-blank/Ejercicio4_git/obj/Debug/net10.0/Ejercicio4_git.AssemblyInfo.cs
+/workspaces/codespaces-blank/Ejercicio4_git/obj/Debug/net10.0/Ejercicio4_git.csproj.CoreCompileInputs.cache
+/workspaces/codespaces-blank/Ejercicio4_git/obj/Debug/net10.0/Ejercicio4_git.dll
+/workspaces/codespaces-blank/Ejercicio4_git/obj/Debug/net10.0/refint/Ejercicio4_git.dll
+/workspaces/codespaces-blank/Ejercicio4_git/obj/Debug/net10.0/Ejercicio4_git.pdb
+/workspaces/codespaces-blank/Ejercicio4_git/obj/Debug/net10.0/Ejercicio4_git.genruntimeconfig.cache
+/workspaces/codespaces-blank/Ejercicio4_git/obj/Debug/net10.0/ref/Ejercicio4_git.dll
