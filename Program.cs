@@ -1,6 +1,8 @@
 ﻿using System;
 using Ejercicio4_git;
 
+// Nombre:Luis Felipe Ortiz López
+
 // bus urbano
 BusUrbano bus1 = new BusUrbano("ABC123", 50, 80.0, 1.5);
 bus1.info();
